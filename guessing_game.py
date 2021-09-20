@@ -9,7 +9,7 @@ import constants
 
 
 def main():
-    # this function checks to see if the user guessedthe orrect number(5)
+    # this function checks to see if the user guessed the correct number(5)
 
     # input
     guessed_number = int(input("Guess a number between 0 and 9 (integer): "))
